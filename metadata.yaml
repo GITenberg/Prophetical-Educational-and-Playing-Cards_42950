@@ -1,0 +1,32 @@
+_repo: Prophetical-Educational-and-Playing-Cards_42950
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42950-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Van Rensselaer, John King, Mrs.
+    aliases:
+    - Van Rensselaer, May King
+    - Rensselaer, John King van, Mrs.
+    - Rensselaer, Mrs. John King van
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '41944'
+    url: http://www.gutenberg.org/2009/agents/41944
+description: ''
+gutenberg_issued: '2013-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42950'
+  lccn: '82134802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortune-telling by cards -- History'
+- !lcc 'GV'
+- !lcsh 'Playing cards -- History'
+title: Prophetical, Educational and Playing Cards
+url: http://www.gutenberg.org/ebooks/42950
